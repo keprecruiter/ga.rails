@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html>
+      <head>
+            <title> Chris's Vacation | About</title>
+               <link rel="stylesheet" type="text/css" href="css/style.css" />
+      <hr>
+          <ul> 
+              <li><a href="index.html">Home</a></li>
+              <li><a href="about.html">About Me</a></li>
+              <li><a href="contact.html">Contact</a></li>
+      </head>
+
+      <body>
+            <h1> About Me...</h1>
+
+            <p> Hello visitor! I'm so glad you stopped by my webpage about my trips to Spain. This is my picture blog of my trips. If you want to get some more information, feel free to stop by and check out my Facebook page as well. Hope to see you there! Ciao! xoxox
+            </p>
+
+
+      </body>
+
+</html>

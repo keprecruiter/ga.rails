@@ -1,0 +1,12 @@
+/* CSS STYLES */
+            body {
+                  background: #98F5FF	 /* I like orange better */
+            }
+
+            h1 { 
+                  background: blue; /* blue is pretty */
+            }
+            
+#header { 
+    background: #FCFCFC;
+}
