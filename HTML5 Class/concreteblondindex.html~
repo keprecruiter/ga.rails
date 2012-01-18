@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+      <body><!-- The body element is the start and finish of where the content is displayed -->
+      <div id="header">
+      <h1><image src="images/CBlogo-small.jpg">~*Concrete Blonde | New Band Fan Page*~<image src="images/CBlogo-smallrev.jpg"></h1>
+
+      <link rel="stylesheet" type="text/css" href="css/cssconcreteblond.css" />
+    
+      <hr>
+          <ul> 
+              <li><a href="concreteblondindex.html">Concrete Blonde | Fan Page</a></li>
+              <li><a href="concreteblondabout.html">Concrete Blonde | About the Band</a></li>
+              <li><a href="concreteblondcontact.html">Concrete Blonde | Contact</a></li>
+      </div>
+      
+      <h2Conrete Blond/h2>
+        <p> Concrete Blonde is an alternative rock band dating from the early 1980s (Johnette Napolitano approached <a href="http://en.wikipedia.org/wiki/James_Mankey">James Mankey</a> in 1982 when they formed Dream 6, the precursor to Concrete Blonde). They signed with I.R.S. Records in 1986, at which point labelmate Michael Stipe suggested the name Concrete Blonde, which described the contrast between their hard rock music and introspective lyrics. (Side note: "Concrete Blonde" was in the 1908s a derogatory term for the heavily hair-sprayed, permed and big haired appearance adopted by "Sunset Strip Metal" bands, such as Poison and Ratt.) Concrete Blonde played through the 1980s into the early 1990s (and re-formed again in the 2000s). They are best known for the poignant songwriting and vocals of <a href="http://innocentwords.com/tabId/807/itemId/2896/Concrete-Blondes-Johnette-Napolitano-Is-a-True-Re.aspx">Johnette Napolitano</a> and their chart topping song "Joey". 
+      
+        <p>The band broke up in 1993, reunited in 1997, broke up, and then reunited again in 2001. They released the albums Group Therapy (2002) and Mojave (2004). On June 5, 2006, Napolitano announced in a MySpace blog entry that the band has officially retired and on the the official Concrete Blonde website the following message was posted: "Thanks to everyone who heard and believed in the music. Music lives on. Keep listening. Keep believing, keep dreaming. Like a ripple, the music moves and travels and finds you. Drive to the music, Make love to the music, cry to the music. That's why we made it. Long after we're gone the music will still be there. Thanks to everyone who helped us bring the music to you & thanks to every face and every heart in every audience all over the world."
+        </p>
+        <p> Little known fact: "Joey" was written in London in less than 15 minutes on the cab ride to the studio to record the album "Bloodletting".
+        </p> 
+       <img src="images/johnette1.jpeg" /> Johnette.
+       <img src="images/ConcreteBlond1.jpeg" /> Early band.
+       <img src="images/ConcreteBlondelater1.jpg"/> Later picture of the band.
+      </p>
+        <p>In 2010, a remastered version of "Bloodletting" was released and, although it did not have the input of the band, sparked new interest in fans. Consequently, the band has recently been touring inside and out of North America since under the moniker "20 Years of Bloodletting: The Vampires Rise" since its release.
+Since the band's official disband, lead singer Johnette became a successful tattoo artist and also took up painting again.
+        </p>
+        <div id="footer">
+     <f1><image src="images/CBlogo-small.jpg">Copyright 2012 Workstrand Group<image src="images/CBlogo-smallrev.jpg"></f1>
+    
+
+
+
+</html>

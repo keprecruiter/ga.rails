@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<html>
+     
+<div id="header">
+      <h1><center><image src="images/CBlogo-small.jpg">~*Concrete Blonde | About the Band*~<image src="images/CBlogo-smallrev.jpg"></center></h1>
+      </head>
+<link rel="stylesheet" type="text/css" href="css/cssconcreteblond.css" />
+    
+      <hr>
+          <ul> 
+              <li><a href="concreteblondindex.html">Concrete Blonde | Fan Page</a></li>
+              <li><a href="about.html">Concrete Blonde | About the Band</a></li>
+              <li><a href="concreteblondcontact.html">Concrete Blonde | Contact</a></li>
+      </div>
+      <body>
+            <p> Not much personal information is known about the various members of the band Concrete Blonde.</p>
+            <p> The most well-known member is Johnette Napolitano. She is of Italian-American heritage and, even from a young age, was involved in the art scene in southern California. She was able to attend UCLA
+            </p>
+            <p>
+            <img src="images/Concrete_Blonde_-_Bloodletting_-_Frontnewer.jpg" />"Bloodletting" (1990) remains Concrete Blonde's most commerically successful album.</p>
+        <p> The success of the album was specifically fueled by the hit song "Joey" which in turn inspired Sugarland's 2009 single of the same name. 
+        </p>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/n-ZoBmN_D4w" frameborder="0" allowfullscreen></iframe> </p>
+        <p> Their other most well-known songs are the title song "Bloodletting" and "Tomorrow Wendy". (These songs and others by the band have been sampled by shows such as "Buffy the Vampire Slayer" and "The Shield".)
+        </p>
+        <p><iframe width="420" height="315" src="http://www.youtube.com/embed/hNig2c7p_t8" frameborder="0" allowfullscreen></iframe>
+        </p>
+        <p><iframe width="420" height="315" src="http://www.youtube.com/embed/lQYTNNHc1cQ" frameborder="0" allowfullscreen></iframe>
+        </p>
+        </body>
+ <div id="footer">
+     <f1><center><image src="images/CBlogo-small.jpg">Copyright 2012 Workstrand Group<image src="images/CBlogo-smallrev.jpg"></center></f1>
+     </html>

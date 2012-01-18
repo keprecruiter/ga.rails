@@ -1,0 +1,94 @@
+/* CSS STYLES */
+body {
+    background: yellow;
+}
+
+#header {
+      height: 200px;
+      color: blue;
+      background: #ccc;
+}
+
+#container {
+      margin: 0 auto;
+      width: 100px; /*set your width*/
+      text-align: left;
+}
+
+#footer {
+      height: 100px;
+      background: #CCC;
+}
+
+
+    h1 {
+        color: #F0FFFF
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 100px
+        }
+        
+    h2 {
+        font-family: Garamond;
+        font-size: 10px;
+        }
+        
+    #borderDiv {
+        background: red;
+        height: 200px;
+        width: 200px;
+        border: black 20px; /* THIS IS A BORDER*/
+        border-width: 5px;
+        border-style: solid;
+        border-color: red;
+    }
+
+    ul {
+        font-weight: bold;
+        color: #999;
+        list-style: square;
+        margin-left: 30px;
+        background: blue;
+     }
+
+      ul li {
+             background: red;
+             margin: 5px;
+           }
+
+    .li_one {
+            background: yellow;
+     }
+     
+    #squareOne {
+          background: orange;
+          width: 200px;
+          height: 200px;
+         
+          margin: 0px 50px 0px 50px;
+          
+          padding: 10px 0px 0px 5px;
+       }
+
+       #squareTwo {
+           background: blue;
+           width: 200px;
+           height: 200px;
+           
+           margin: 50px 0px 50px 0px;
+
+           padding: 20px;
+       }
+  a {
+      color: #0c3;
+     }
+    a:visited {
+      color: purple;
+      }
+
+      a:hover {
+        color: #FFF;
+       }
+
+      a:active {
+        color: #8000080;|
+        }

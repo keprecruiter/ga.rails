@@ -1,0 +1,20 @@
+body {
+    background: yellow;
+}
+
+#header {
+      height: 200px;
+      background: #ccc;
+}
+
+#container {
+      margin: 0 auto;
+      width: 100px; /*set your width*/
+      text-align: left;
+}
+
+#footer {
+      height: 100px;
+      background: 
+
+

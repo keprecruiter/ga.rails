@@ -1,11 +1,40 @@
 /* CSS STYLES */
-            body {
-                  background: #98F5FF	 /* I like orange better */
-            }
+          
 
-            h1 { 
-                  background: blue; /* blue is pretty */
-            }
+body {
+
+      background: #FF0000 no-repeat;
+      background: url('images/background.jpg');
+
+
+}
+
+    h1 {
+        font-family: Arial, Helvetica, sans-serif;
+        }
+        
+    h2 {
+        font-family: "Courier New", Courier, monospace;
+        font-size: 9px;
+        }
+    #borderDiv {
+        background: yellow;
+        height: 200px;
+        width: 200px;
+        
+        border: #999 5px solid; /* THIS IS A BORDER
+        
+        border-width: 5px;
+        border-style: solid;
+        border-color: red;
+    }
+    
+body {
+
+      background: gray;
+      background: url('images/background.jpg');
+
+      }
             
 #header { 
     background: #FCFCFC;
